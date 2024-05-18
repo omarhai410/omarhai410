@@ -13,12 +13,37 @@
 <li>🌐 <a href="https://linkedin.com/in/omar-hai-b75b32207" style="color:#87CEEB;">LinkedIn</a></li>
 </ul>
 
+<h2 style="color:#87CEEB;">Skills and Technologies</h2>
+
+<p style="color:#87CEEB;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=beautifulsoup&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-0076A8?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Talend-FF6D00?style=for-the-badge&logo=talend&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"/>
+</p>
+
 <h2 style="color:#87CEEB;">GitHub Statistics</h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=omarhai410&show_icons=true&theme=radical" alt="Omar's GitHub Stats" style="color:#87CEEB;"></p>
-
-<h3 style="color:#87CEEB;">Top Languages</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhai410&layout=compact&langs_count=10&theme=radical" alt="Top Languages" style="color:#87CEEB;"></p>
+<div style="display: flex; justify-content: space-between;">
+  <p><img src="https://github-readme-stats.vercel.app/api?username=omarhai410&show_icons=true&theme=radical" alt="Omar's GitHub Stats" style="color:#87CEEB;"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhai410&layout=compact&langs_count=10&theme=radical" alt="Top Languages" style="color:#87CEEB;"></p>
+</div>
 
 <h2 style="color:#87CEEB;">Popular Repositories</h2>
 
@@ -64,4 +89,5 @@
 <hr style="color:#87CEEB;">
 
 <p style="color:#87CEEB;">© 2024 GitHub, Inc.</p>
+
 
