@@ -3,6 +3,7 @@
 <p style="color:#87CEEB;">I am <strong>Omar Hai</strong>, a dedicated Data Science and Data Engineering student with a passion for exploring the depths of data.</p>
 
 <p style="color:#87CEEB;"><strong>Location:</strong> AL Hoceima, Evry<br>
+<strong>Current Time:</strong> <!--TIME--></p>
 
 <h2 style="color:#87CEEB;">About Me</h2>
 
@@ -65,3 +66,14 @@
 
 <p style="color:#87CEEB;">© 2024 GitHub, Inc.</p>
 
+<p style="color:#87CEEB;"><strong>Footer Navigation:</strong></p>
+<ul style="color:#87CEEB;">
+<li><a href="https://github.com/terms" style="color:#87CEEB;">Terms</a></li>
+<li><a href="https://github.com/privacy" style="color:#87CEEB;">Privacy</a></li>
+<li><a href="https://github.com/security" style="color:#87CEEB;">Security</a></li>
+<li><a href="https://github.com/status" style="color:#87CEEB;">Status</a></li>
+<li><a href="https://github.com/docs" style="color:#87CEEB;">Docs</a></li>
+<li><a href="https://github.com/contact" style="color:#87CEEB;">Contact</a></li>
+<li><a href="https://github.com/cookies" style="color:#87CEEB;">Manage Cookies</a></li>
+<li><a href="https://github.com/donotshare" style="color:#87CEEB;">Do Not Share My Personal Information</a></li>
+</ul>
