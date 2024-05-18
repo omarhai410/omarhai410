@@ -3,7 +3,6 @@
 <p style="color:#87CEEB;">I am <strong>Omar Hai</strong>, a dedicated Data Science and Data Engineering student with a passion for exploring the depths of data.</p>
 
 <p style="color:#87CEEB;"><strong>Location:</strong> AL Hoceima, Evry<br>
-<strong>Current Time:</strong> ![Time](https://worldtimeapi.org/api/timezone/Europe/Paris.txt)</p>
 
 <h2 style="color:#87CEEB;">About Me</h2>
 
