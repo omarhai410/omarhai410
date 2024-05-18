@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am **Omar Hai** (he/him), a dedicated Data Science and Data Engineering student with a passion for exploring the depths of data.
+I am **Omar Hai**, a dedicated Data Science and Data Engineering student with a passion for exploring the depths of data.
 
 **Location:** AL Hoceima, Evry  
 **Current Time:** 16:05 (UTC +02:00)
@@ -16,7 +16,9 @@ I am **Omar Hai** (he/him), a dedicated Data Science and Data Engineering studen
 ## GitHub Statistics
 
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarhai410&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarhai410&layout=compact&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarhai410&layout=compact&langs_count=10&theme=radical)
 
 ## Popular Repositories
 
