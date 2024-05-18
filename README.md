@@ -36,13 +36,14 @@
 <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 <h2 style="color:#87CEEB;">GitHub Statistics</h2>
 
 <div style="display: flex; justify-content: space-between;">
-  <p><img src="https://github-readme-stats.vercel.app/api?username=omarhai410&show_icons=true&theme=radical" alt="Omar's GitHub Stats" style="color:#87CEEB;"></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhai410&layout=compact&langs_count=10&theme=radical" alt="Top Languages" style="color:#87CEEB;"></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=omarhai410&show_icons=true&theme=radical" alt="Omar's GitHub Stats" style="color:#87CEEB; max-width: 49%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhai410&layout=compact&langs_count=10&theme=radical" alt="Top Languages" style="color:#87CEEB; max-width: 49%;">
 </div>
 
 <h2 style="color:#87CEEB;">Popular Repositories</h2>
