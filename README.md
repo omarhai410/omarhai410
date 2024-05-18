@@ -55,15 +55,3 @@ Contributed to:
 💭 I may be slow to respond, but feel free to reach out!
 
 ---
-
-**© 2024 GitHub, Inc.**
-
-**Footer Navigation:**
-- [Terms](https://github.com/terms)
-- [Privacy](https://github.com/privacy)
-- [Security](https://github.com/security)
-- [Status](https://github.com/status)
-- [Docs](https://github.com/docs)
-- [Contact](https://github.com/contact)
-- [Manage Cookies](https://github.com/cookies)
-- [Do Not Share My Personal Information](https://github.com/donotshare)
